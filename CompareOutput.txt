@@ -1,0 +1,8 @@
+Wanted Output:- 
+514125 6245 5441678 4435 
+Student's Output:- 
+514125 62245 5441678 4435 
+Comparison:- 
+equal     student[0:8] --> wanted[0:8] '514125 6' --> '514125 6'
+delete    student[8:9] --> wanted[8:8]      '2' --> ''
+equal     student[9:26] --> wanted[8:25] '245 5441678 4435 ' --> '245 5441678 4435 '
